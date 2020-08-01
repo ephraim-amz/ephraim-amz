@@ -5,4 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ephraim-amz)](https://github.com/ephraim-amz/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ephraim-amz&layout=compact)](https://github.com/ephraim-amz/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ephraim-amz)](https://github.com/ephraim-amz/github-readme-stats)
