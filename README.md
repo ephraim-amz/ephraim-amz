@@ -1,7 +1,8 @@
 ### Hello and welcome to my GitHub profile
 
+- 👨🏾‍💻 I'm currently on a Data Analysis with Premier League Players
 - 🌱 I’m currently learning Data Analysis in Python
-- 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/ephraïm-amezian-249bb61a4/ "My Linkedin profile")
+- 📫 You can reach me via <a href="https://www.linkedin.com/in/ephraïm-amezian-249bb61a4"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ## GitHub Stats
 
