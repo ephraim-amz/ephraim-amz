@@ -15,9 +15,12 @@ class AboutMe:
 		return 'France'
 		
 	def my_skills():
-		langages = ['Python','SQL','Java','C#']
-		databases = ['My SQL','Oracle 11g','SSMS']
-		data_analysis_tools = ['Excel','Numbers']
+		langages = {"Python" : "Matplotlib, Numpy, Pandas, Scikit-learn",
+				"SQL" : "My SQL, Oracle 11g,SSMS",
+				"Java" : "JDBC, J2E",
+				"C#" : ".NET Core CLI, Blazor"}
+		spreadsheet_tools = {"Excel" : "Graphs 📈, Dynamic Tables, Macros, What-If Scenarios"}
+		cloud_services = ['Azure']
 	
 	def goals():
 		learn_r()
