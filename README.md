@@ -1,4 +1,4 @@
-### Hello and welcome to my GitHub profile
+### Hello 👋🏾 and welcome to my profile
 
 ``` python
 class WhoAmI:
