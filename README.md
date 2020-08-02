@@ -1,7 +1,7 @@
 ### Hello 👋🏾 and welcome to my profile
 
 ``` python
-class WhoAmI:
+class AboutMe:
 	name = 'Ephraim'
 	hobbies = ['⚽','🏀','👨🏾‍🍳','🏃🏾‍♂️','🏋🏾‍♂️','Watching Anime']
   
