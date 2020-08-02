@@ -27,7 +27,7 @@ class WhoAmI:
 		# TODO: Find a apprenticeship 
 ```
 
-- 📫 You can reach me via <a href="https://www.linkedin.com/in/ephraïm-amezian-249bb61a4"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+📫 You can reach me via <a href="https://www.linkedin.com/in/ephraïm-amezian-249bb61a4"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ## GitHub Stats
 
