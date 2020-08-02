@@ -19,7 +19,7 @@ class WhoAmI:
 		databases = ['My SQL','Oracle 11g','SSMS']
 		data_analysis_tools = ['Excel','Numbers']
 	
-	def ambitions():
+	def my_goals():
 		learn_r()
 		learn_tensorflow()
 		learn_power_bi()
