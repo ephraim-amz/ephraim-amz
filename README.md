@@ -22,8 +22,8 @@ END_SECTION:waka
  	name = 'Ephraim'
 	hobbies = ['⚽','🏀','👨🏾‍🍳','🏃🏾‍♂️','🏋🏾‍♂️','Watching Anime']
   
-  def current_project():
-    return 'Data Analysis with Premier League Players Data'
+	def current_project():
+		return 'Data Analysis with Premier League Players Data'
     
 	def get_loc():
 		return 'France'
@@ -31,7 +31,6 @@ END_SECTION:waka
 	def Ambitions():
 		learn_r()
 		find_a_apprenticeship()
-    be_better_at_cooking()
+    		be_better_at_cooking()
 		# More ambitions pending... 
-	
 ```
