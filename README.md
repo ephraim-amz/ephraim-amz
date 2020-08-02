@@ -21,6 +21,8 @@ class WhoAmI:
 	
 	def ambitions():
 		learn_r()
+		learn_tensorflow()
+		learn_power_bi()
 		find_a_apprenticeship()
 		be_better_at_cooking()
 		# TODO: Find more ambitions 
