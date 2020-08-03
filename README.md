@@ -19,12 +19,12 @@ class AboutMe:
 				"SQL" : "My SQL, Oracle 11g, SSMS",
 				"Java ☕" : "JDBC, J2E",
 				"C#" : ".NET Core CLI, Blazor"}
-		spreadsheet_tools = {"Excel" : "Dynamic Tables, Graphs 📈, VBA Macros, Power Query, What-If Scenarios"}
+		spreadsheet_tools = {"Excel" : "Dynamic Tables, Graphs 📈, VBA Macros, Power Query, What-If Scenarios", "Other tools" : "Google Sheets, Numbes"}
 		cloud_services = ['Microsoft Azure']
 	
 	def goals():
 		learn_r()
-		learn_tensorflow()
+		learn_tableau()
 		learn_power_bi()
 		be_better_at_cooking()
 		# TODO: Find a apprenticeship 
