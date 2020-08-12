@@ -19,7 +19,8 @@ class AboutMe:
 				"SQL" : "My SQL, Oracle 11g, SSMS",
 				"Java ☕" : "JDBC, J2E",
 				"C#" : ".NET Core CLI, Blazor"}
-		spreadsheet_tools = {"Excel" : "Dynamic Tables, Graphs 📈, VBA Macros, Power Query, What-If Scenarios", "Other tools" : "Google Sheets, Numbers"}
+		spreadsheet_tools = {"Excel" : "Dynamic Tables, Graphs 📈, VBA Macros, Power Query, What-If Scenarios"
+		,"Other tools" : "Google Sheets, Numbers"}
 		cloud_services = ['Microsoft Azure']
 	
 	def goals():
