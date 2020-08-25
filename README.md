@@ -1,9 +1,10 @@
-### Hello 👋🏾 and welcome to my profile
+### Hello 👋🏾 and welcome to my GitHub profile
 
 ``` python
 class AboutMe:
 	name = 'Ephraïm'
 	hobbies = ['⚽','🏀','👨🏾‍🍳','🏃🏾‍♂️','🏋🏾‍♂️','Watching Anime']
+	presentation = ['Im a future Data Science and AI student who likes to write code on free time']
   
 	def current_project():
 		return 'Data Analysis with Premier League Players Data'
@@ -20,7 +21,7 @@ class AboutMe:
 				"Java ☕" : "JDBC, J2E",
 				"C#" : ".NET Core CLI, Blazor"}
 		spreadsheet_tools = {"Excel" : "Dynamic Tables, Graphs 📈, VBA Macros, Power Query, What-If Scenarios",
-		"Other tools" : "Google Sheets, Numbers"}
+		other_tools : "Google Sheets, Numbers"}
 		cloud_services = ['Microsoft Azure']
 	
 	def goals():
