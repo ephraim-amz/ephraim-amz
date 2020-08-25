@@ -4,7 +4,7 @@
 class AboutMe:
 	name = 'Ephraïm'
 	hobbies = ['⚽','🏀','👨🏾‍🍳','🏃🏾‍♂️','🏋🏾‍♂️','Watching Anime']
-	presentation = ['Im a future Data Science and AI student who likes to write code on free time']
+	presentation = 'Im a future Data Science and AI student who likes to write code on free time'
   
 	def current_project():
 		return 'Data Analysis with Premier League Players Data'
