@@ -4,13 +4,13 @@
 class AboutMe:
 	name = 'Ephraïm'
 	hobbies = ['⚽','🏀','👨🏾‍🍳','🏃🏾‍♂️','🏋🏾‍♂️','Watching Anime']
-	presentation = 'Im a future Data Science and AI student who likes to write code on free time'
+	presentation = 'Im a Data Science and AI student who likes to write code on free time'
   
 	def current_project():
-		return 'Data Analysis with Premier League Players Data'
+		return None
 	
 	def current_learning():
-		return 'Data Analysis in Python'
+		return 'Maven'
     
 	def loc():
 		return 'France'
@@ -25,11 +25,9 @@ class AboutMe:
 		cloud_services = ['Microsoft Azure']
 	
 	def goals():
-		learn_r()
 		learn_tableau()
 		learn_power_bi()
 		be_better_at_cooking()
-		# TODO: Find a apprenticeship 
 ```
 
 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ephraïm-amezian-249bb61a4 "My LinkedIn account")
