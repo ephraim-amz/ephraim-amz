@@ -1,28 +1,33 @@
-### Hello 👋🏾 and welcome to my GitHub profile
+### Hi 👋🏾, Welcome to my GitHub profile
 
 ``` python
 class AboutMe:
 	name = 'Ephraïm'
-	hobbies = ['⚽','🏀','👨🏾‍🍳','🏃🏾‍♂️','🏋🏾‍♂️','Watching Anime']
+	hobbies = ['⚽','🏀','🏈','📖','👨🏾‍🍳','🏃🏾‍♂️','🏋🏾‍♂️','Watching Anime']
 	presentation = 'Im a Data Science and AI student who likes to write code on free time'
   
 	def current_project():
-		return None
+		  return None
 	
 	def current_learning():
-		return 'Maven'
+		  return None
     
 	def loc():
-		return 'France'
+		  return 'France'
 		
 	def my_skills():
-		langages = {"Python 🐍" : "Matplotlib, Numpy, Pandas, Scikit-learn",
-				"SQL" : "My SQL, Oracle 11g, SSMS",
-				"Java ☕" : "JDBC, J2E",
-				"C#" : ".NET Core CLI, Blazor"}
-		spreadsheet_tools = {"Excel" : "Dynamic Tables, Graphs 📈, VBA Macros, Power Query, What-If Scenarios",
-		other_tools : "Google Sheets, Numbers"}
-		cloud_services = ['Microsoft Azure']
+		  langages = {
+      "Python 🐍" : ["Matplotlib", "Numpy", "Pandas", "Scikit-learn"],
+				  "SQL" : ["My SQL", "Oracle 11g", SSMS"],
+				  "Java ☕" : ["Multi-Threading", "Reflection", "JDBC", Java EE",
+				  "C#" : [".NET Core CLI", "Blazor"]
+    }
+		  spreadsheet_tools = {
+      "Excel" : ["Dynamic Tables", "Graphs 📈", "VBA Macros", "Power Query", "What-If Scenarios"],
+		    "Other_tools" : ["Google Sheets", Numbers"]
+    }
+		  cloud_services = ["Microsoft Azure"]
+    return languages,spreadsheet_tools,cloud_services
 	
 	def goals():
 		learn_tableau()
