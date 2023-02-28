@@ -7,27 +7,27 @@ class AboutMe:
 	presentation = 'Im a Data Science and AI student who likes to write code on free time'
   
 	def current_project():
-		  return None
+		 return None
 	
 	def current_learning():
-		  return None
+		 return None
     
 	def loc():
-		  return 'France'
+		 return 'France'
 		
 	def my_skills():
-		  langages = {
-      "Python 🐍" : ["Matplotlib", "Numpy", "Pandas", "Scikit-learn"],
-				  "SQL" : ["My SQL", "Oracle 11g", SSMS"],
-				  "Java ☕" : ["Multi-Threading", "Reflection", "JDBC", Java EE",
-				  "C#" : [".NET Core CLI", "Blazor"]
-    }
-		  spreadsheet_tools = {
-      "Excel" : ["Dynamic Tables", "Graphs 📈", "VBA Macros", "Power Query", "What-If Scenarios"],
-		    "Other_tools" : ["Google Sheets", Numbers"]
-    }
-		  cloud_services = ["Microsoft Azure"]
-    return languages,spreadsheet_tools,cloud_services
+		 langages = {
+     "Python 🐍" : ["Matplotlib", "Numpy", "Pandas", "Scikit-learn"],
+				 "SQL" : ["My SQL", "Oracle 11g", SSMS"],
+				 "Java ☕" : ["Multi-Threading", "Reflection", "JDBC", Java EE",
+				 "C#" : [".NET Core CLI", "Blazor"]
+   }
+		 spreadsheet_tools = {
+     "Excel" : ["Dynamic Tables", "Graphs 📈", "VBA Macros", "Power Query", "What-If Scenarios"],
+		   "Other_tools" : ["Google Sheets", Numbers"]
+   }
+		 cloud_services = ["Microsoft Azure"]
+   return languages,spreadsheet_tools,cloud_services
 	
 	def goals():
 		learn_tableau()
